@@ -1,10 +1,11 @@
-### ola! Eu sou Denilson Bernardo Sou Estudante de Analise e desenvolvimento de Sistemas!
+### ola! Eu sou Clauce Viotti 
 <div align="center">
   <a href="https://github.com/dsouloficial">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dsouloficial&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ProfessoraClauce&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouloficial&theme=dracula&hide_border=false&&layout=compact"/>
-(https://instagram.com/clauceviotti)
-</div>
+[![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clauceviotti)
+### Tecnologias para lecionar
+    </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="dsouloficial-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dsoulfocial-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
